@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8898251346",
+    "project_id": "down-da656",
+    "storage_bucket": "down-da656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8898251346:android:1ce0c1a6b3db2b2d856d8b",
+        "android_client_info": {
+          "package_name": "com.ahmad.Down"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDZEHv_C4CgzBqj_1zVIGQDc37LEq_iGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
